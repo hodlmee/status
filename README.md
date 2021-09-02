@@ -25,8 +25,8 @@ The [GOALASKA](https://dashboard.shrimpy.io/leader/goalaska) leader profile was 
 Based on user feedback to widen my presence on other exchanges, I most recently started the [HODLBUS](https://dashboard.shrimpy.io/leader/hodlbus) leader profile on Binance US. I used the same 0.5% assets under management rate as Coinbase Pro, since this configuration seemed reasonable to my followers. The buy/sell percentages represent the AI-determined portfolio movement required to initiate trading activity.
 
 ![HODLBUS status](https://img.shields.io/uptimerobot/status/m789084828-d701376895c43fcc377d611e)
-![HODLBUS buy](https://img.shields.io/endpoint?url=https%3A%2F%2Fshrimpy.d4pncgqv1d5.us-south.codeengine.appdomain.cloud%2Fshield%2FBinanceUS%2Fbuy)
-![HODLBUS sell](https://img.shields.io/endpoint?url=https%3A%2F%2Fshrimpy.d4pncgqv1d5.us-south.codeengine.appdomain.cloud%2Fshield%2FBinanceUS%2Fsell)
+![HODLBUS buy](https://img.shields.io/endpoint?url=https%3A%2F%2Fshrimpy.d4pncgqv1d5.us-south.codeengine.appdomain.cloud%2Fshield%2Fhodlbus%2Fbuy)
+![HODLBUS sell](https://img.shields.io/endpoint?url=https%3A%2F%2Fshrimpy.d4pncgqv1d5.us-south.codeengine.appdomain.cloud%2Fshield%2Fhodlbus%2Fsell)
 
 ## Want to join the community?
 If you are not already using the Shrimpy portfolio management and social trading platform, now is a great time to start. If you feel inclined, please use my [referral code](https://www.shrimpy.io/referral?r=nKp-s7Wda) when joining as a new member. Once logged in, simply link one of the exchanges above and follow my leader profile from the Social trading landing page.
